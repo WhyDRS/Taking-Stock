@@ -9,4 +9,4 @@ Welcome to a collaborative place to ideate, formalize, and influence our weekly 
 
 This repo can be a home for introducing anything you'd like covered, highlighted, or otherwise brought into our ongoing dialogues.
 
-The final repisodes get added to [this RSS feed](https://github.com/Taking-Stock/RSSfeed), potentially with links to our collective writen details here.
+The final episodes get added to [this RSS feed](https://github.com/Taking-Stock/RSSfeed), potentially with links to our collective writen details here.
