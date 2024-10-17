@@ -8,4 +8,4 @@ Check out XXIMs content and podcast at https://www.youtube.com/@XXIMpod/videos, 
 
 Ankit has been folling the Syndicate for [some](https://x.com/Sehgal_ankit/status/1570516380751110146) [time](https://x.com/Sehgal_ankit/status/1713290697304932618) on a completely [grassroots](https://discordapp.com/channels/955819881989808128/1059573570122023022/1063895241205231646) basis. He has extensive crypto, business, and euntreprenrial background&mdash;hope some of this might show in his perspective on the future of education. I bring this up because it was something incredible he told me about before our first interview, and we might get to hear a little bit about it. 🎙️ [^ints]
 
-[^ints]: _See_ [release snippet]. Follow-up to be done [Oct 22](https://github.com/users/JFWooten4/projects/1?pane=issue&itemId=83709243).
+[^ints]: _See_ [release snippet](https://x.com/xximpod/status/1835990569954246837). Follow-up to be done [Oct 22](https://github.com/users/JFWooten4/projects/1?pane=issue&itemId=83709243).
