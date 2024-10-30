@@ -10,3 +10,7 @@ Welcome to a collaborative place to ideate, formalize, and influence our weekly 
 This repo can be a home for introducing anything you'd like covered, highlighted, or otherwise brought into our ongoing dialogues.
 
 The final episodes get added to [this RSS feed](https://github.com/Taking-Stock/RSSfeed), potentially with links to our collective writen details here.
+
+## Repo Nativation
+
+For the upcoming schedule, see the `episodes` folder. For community brainstorming, explore the repo's `pending-ideas` and community discussions (above).
