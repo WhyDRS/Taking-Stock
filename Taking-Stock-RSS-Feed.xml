@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  >
+  <channel>
+    <title>Taking Stock</title>
+    <itunes:owner>
+      <itunes:email>hi@whydrs.org</itunes:email>
+    </itunes:owner>
+    <itunes:author>WhyDRS.org</itunes:author>
+    <description>A podcast about self custody in finance.</description>
+    <atom:link href="https://WhyDRS.github.io/Taking-Stock/Taking-Stock-RSS-Feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="https://github.com/WhyDRS/Taking-Stock/raw/main/img/taking-stock-temp-logo-mv-full-res-to-DAO-docs.jpg" />
+    <image>
+      <title>Taking Stock</title>
+      <link>https://www.whydrs.org/</link>
+      <url>https://static.wixstatic.com/media/06e09f_1342b0e64daf4a51ab5e0704aebd3374~mv2.png</url>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <language>en-us</language>
+    <link>https://www.whydrs.org/</link>
+    <managingEditor>hi@whydrs.org (WhyDRS)</managingEditor>
+    <webMaster>hi@whydrs.org (WhyDRS)</webMaster>
+    <itunes:category text="Education" />
+    <itunes:explicit>no</itunes:explicit>
+
+  
+<item>
+      <title>Taking Stock Episode 52 - Retail Investing in the Blockchain Era with Valentine</title>
+      <pubDate>Wed, 13 Nov 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_8cdd8afd9341496b9b48f4cae2b05908.mp3" type="audio/mpeg" length="44828118" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_8cdd8afd9341496b9b48f4cae2b05908.mp3</guid>
+      <itunes:duration>01:33:23</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week Chives and John were joined by Valentine, a Stellar community member and contributor who is becoming increasingly involved in the online advocacy space and is providing code improvements to the SDEX ecosystem.</p>
+<p>Valentine has some personal history as a retail investor and engaging with online communities, and was unfamiliar with DRS as an asset holding framework, so we covered some of these topics as well.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1LyGBgrVjYPJN">https://x.com/i/spaces/1LyGBgrVjYPJN</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/">https://lemmy.whynotdrs.org/</a></p>
+<p>Visit <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Valentine on X:</p>
+<p><a href="https://x.com/VI54434">https://x.com/VI54434</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+
+<item>
+      <title>Taking Stock Episode 51 - U.S. Treasury Digital Assets Study</title>
+      <pubDate>Wed, 06 Nov 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_e7f8b3451dda4cb797bd1a285adde8a6.mp3" type="audio/mpeg" length="45717294" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_e7f8b3451dda4cb797bd1a285adde8a6.mp3</guid>
+      <itunes:duration>01:48:50</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>Today on Taking Stock we'll follow up on last weeks discussion with an examination of the Treasury Department's study on Digital Assets, which also was released in October 2024. The Treasury takes a more direct approach reviewing how tokenization of treasuries could impact the market currently developing in the crypto space including effects on stablecoins, bitcoin, memecoins, and coins yet to come. It is a data driven and conservative take which is worth the read if you're interested to see how the coming years may integrate emergent blockchain technology.</p>
+<p>Make sure to check out some of the excellent included graphics and charts to follow along, as we'll praise heavily the diligence displayed by this team even if dismayed by the way in which the Treasury department is recommending to utlize distributed ledgers.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1OdJrXAEbezKX">https://x.com/i/spaces/1OdJrXAEbezKX</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/">https://lemmy.whynotdrs.org/</a></p>
+<p>Visit <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>U.S. Treasury Digital Asset Study:</p>
+<p><a href="https://home.treasury.gov/system/files/221/CombinedChargesforArchivesQ42024.pdf#page=107">https://home.treasury.gov/system/files/221/CombinedChargesforArchivesQ42024.pdf#page=107</a></p>
+<p>Conversation on Github referenced in the episode:</p>
+<p><a href="https://github.com/JFWooten4/WhyDRS-docs/issues/6">https://github.com/JFWooten4/WhyDRS-docs/issues/6</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+    
+<item>
+      <title>Taking Stock Episode 50 - DTCCs Digital Assets Study</title>
+      <pubDate>Wed, 30 Oct 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_b1bb98645dbe419ca2a654a414d9dccf.mp3" type="audio/mpeg" length="49438372" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_b1bb98645dbe419ca2a654a414d9dccf.mp3</guid>
+      <itunes:duration>01:22:23</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>Today on Taking Stock we'll be discussing the recent DTCC study on Digital Assets effects on Collateral Management. Per @john.xlm , DTCC Digital Assets is their Securrency acquisition. One of the primary benefits to digital assets is how it can enable direct custodial control for participants and transparency for onlookers - DTCC as umbrella for the centralized security depository for US markets will have an interesting sponsored take on this tech.</p>
+<p>The report was authored by Nadine Chakar, an industry veteran who is currently the Global Head of DTCC Digital Assets. Her prior roles included acting as Securrency CEO, an RWA tokenization firm, before they were acquired by DTCC and as the head of State Street Digital, which was a focused division of the State Street asset management firm.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1YqJDkweNaVGV">https://x.com/i/spaces/1YqJDkweNaVGV</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/">https://lemmy.whynotdrs.org/</a></p>
+<p>Visit <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Transforming Collateral Management with Digital Assets Case Study:</p>
+<p><a href="https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf">https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf</a></p>
+<p>DTCC Press Release about Securrency acquisition:</p>
+<p><a href="https://www.dtcc.com/news/2023/october/19/dtcc-signs-definitive-agreement-to-acquire-securrency-inc">https://www.dtcc.com/news/2023/october/19/dtcc-signs-definitive-agreement-to-acquire-securrency-inc</a></p>
+<p>DTCC Comments on Securrency acquisition:</p>
+<p><a href="https://www.dtcc.com/news/2023/december/11/dtcc-comments-on-acquisition-of-securrency">https://www.dtcc.com/news/2023/december/11/dtcc-comments-on-acquisition-of-securrency</a></p>
+<p>Testimony of Nadine Chakar:</p>
+<p><a href="https://docs.house.gov/meetings/BA/BA21/20240605/117392/HHRG-118-BA21-Wstate-ChakarN-20240605.pdf">https://docs.house.gov/meetings/BA/BA21/20240605/117392/HHRG-118-BA21-Wstate-ChakarN-20240605.pdf</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+
+<item>
+      <title>Taking Stock Episode 49 - Connecting Investors Across Communities with Ankit of XXIM</title>
+      <pubDate>Wed, 23 Oct 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_aefbb6f724904e0f8a03cd2dc0318024.mp3" type="audio/mpeg" length="44046067" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_aefbb6f724904e0f8a03cd2dc0318024.mp3</guid>
+      <itunes:duration>01:13:24</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives is joined by Ankit of XXIM. Ankit has described his project as an effort to bridge the gap of understanding between disparate sections of retail involved in the financial sector, and we discuss how blockchain technology (beyond any specific crypto) can be applied to traditional financial markets - both by current market incumbents, but also by market participants and enthusiasts.</p>
+<p>Ankit and his wife also host the XXIM podcast where both Chives and John Wooten have appeared as guests in one part of the effort to spread the knowledge around.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1YpKkldjbwYGj">https://x.com/i/spaces/1YpKkldjbwYGj</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>XXIM On YouTube:</p>
+<p><a href="https://www.youtube.com/@XXIMpod">https://www.youtube.com/@XXIMpod</a></p>
+<p>Chives' epsiode of XXIM:</p>
+<p><a href="https://www.youtube.com/watch?v=TGppVfLfLxg">https://www.youtube.com/watch?v=TGppVfLfLxg</a></p>
+<p>John's epsiode of XXIM:</p>
+<p><a href="https://www.youtube.com/watch?v=HQZg0ZY-Amg">https://www.youtube.com/watch?v=HQZg0ZY-Amg</a></p>
+<p>XXIM on X:</p>
+<p><a href="https://x.com/xximpod">https://x.com/xximpod</a></p>
+<p>Ankit on X:</p>
+<p><a href="https://x.com/Sehgal_ankit">https://x.com/Sehgal_ankit</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+
+<item>
+      <title>Taking Stock Episode 48 - Getting Involved! with WhyDRS Database Guru Gorillionaire2</title>
+      <pubDate>Wed, 16 Oct 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_14e265e39758441882cc017fae577c61.mp3" type="audio/mpeg" length="50145897" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_14e265e39758441882cc017fae577c61.mp3</guid>
+      <itunes:duration>01:44:27</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives is joined by Gorillionaire2. Gorillionaire has been a key contributing member of the WhyDRS team since before WhyDRS.org launched in Feb 2023, and the WhyDRS Database originally evolved out of a personal project that he started.</p>
+<p>Gorillionaire continues to be the core of its maintenance and growth, publicly displaying his commitment to through documented improvements on GitHub and welcoming community input so that we can continually improve the free information and educational resources that are core to the DRS mission.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1jMJgBZerYAGL">https://x.com/i/spaces/1jMJgBZerYAGL</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Databse Links:</p>
+<p><a href="https://database.whydrs.org/">https://database.whydrs.org/</a></p>
+<p><a href="https://github.com/WhyDRS/Database">https://github.com/WhyDRS/Database</a></p>
+<p>Gorillionaire on X:</p>
+<p><a href="https://x.com/TripleJuicebox">https://x.com/TripleJuicebox</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+
+<item>
+      <title>Taking Stock Episode 47 - Decentralized Management, Teamwork, and Growth</title>
+      <pubDate>Wed, 09 Oct 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_90e8784638484f0b81aa6ad0db0a7f34.mp3" type="audio/mpeg" length="49043393" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_90e8784638484f0b81aa6ad0db0a7f34.mp3</guid>
+      <itunes:duration>01:56:45</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and John discussed Decentralized Management, Teamwork, and Growth. What does it mean to be a decentralized mass of enthusiasts pushing towards a common goal?</p>
+<p>How can we enable the driven to contribute, and how can we enable the curious to learn how to contribute? Where can we host information and resources to be the most helpful and conducive to meeting our goals, and how can we define specific goals for an organized body when everyone has their own nuanced perspective?</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/tehchives/status/1844110252763128076">https://x.com/tehchives/status/1844110252763128076</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 46 - Community Check In and 501c3 Process Details</title>
+      <pubDate>Wed, 02 Oct 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_3cd72338f38a4a258008561242666fd9.mp3" type="audio/mpeg" length="48345448" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_3cd72338f38a4a258008561242666fd9.mp3</guid>
+      <itunes:duration>01:20:34</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week, Chives reviews some ongoing key questions still to be answered for moving forward with the 501c3 IRS process, and invites community input.</p>
+<p>Key issues discussed include the best fit NTEE code, whether WhyDRS will submit additional paperwork concerning potentially influencing legislation, how and if compensation should be allotted to members from donated funds, and the distinction between a private foundation and a public charity.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/tehchives/status/1841568987005567032">https://x.com/tehchives/status/1841568987005567032</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>GitHub discussion:</p>
+<p><a href="https://github.com/orgs/WhyDRS/discussions/8">https://github.com/orgs/WhyDRS/discussions/8</a></p>
+<p>NTEE Directory (Page 21):</p>
+<p><a href="https://www.irs.gov/pub/irs-pdf/i1023ez.pdf">https://www.irs.gov/pub/irs-pdf/i1023ez.pdf</a></p>
+<p>IRS details on Private Foundations and Public Charities:</p>
+<p><a href="https://www.irs.gov/charities-non-profits/eo-operational-requirements-private-foundations-and-public-charities">https://www.irs.gov/charities-non-profits/eo-operational-requirements-private-foundations-and-public-charities</a></p>
+<p>501c3.org article on Private Fountations and Public Charities:</p>
+<p><a href="https://www.501c3.org/private-foundation-vs-public-charity/">https://www.501c3.org/private-foundation-vs-public-charity/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 45 - Alternate Trading Platforms</title>
+      <pubDate>Wed, 27 Sep 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_01442e23580a4109a8162c8ce75a30e6.mp3" type="audio/mpeg" length="49091274" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_01442e23580a4109a8162c8ce75a30e6.mp3</guid>
+      <itunes:duration>01:42:15</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week, Chives and John take a look at Alternate Trading Systems, or ATS. These have transitioned from a small part of the market to representing more than 90% of retail market orders, according to Chairman Gensler in a 2022 Bloomberg interview.</p>
+<p>Also covered are emergent new models in the ATS space, such as tZero, and other potential developments in the space such as Block Transfer with a custody-first focus.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/tehchives/status/1839748628711141464">https://x.com/tehchives/status/1839748628711141464</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Chairman Gensler on Bloomberg:</p>
+<p><a href="https://youtu.be/NBkPQ0VsWV0?t=243">https://youtu.be/NBkPQ0VsWV0?t=243</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 44 - Petitioning the SEC for Fairer Rules</title>
+      <pubDate>Wed, 11 Sep 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_462de0c7e5bc442ea49da4c9324cf727.mp3" type="audio/mpeg" length="48965898" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_462de0c7e5bc442ea49da4c9324cf727.mp3</guid>
+      <itunes:duration>01:42:00</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives was joined by @WhatCanIMakeToday, to discuss SEC Petitions, the NSCC petition hosted at WhyDRS, and the history of retail advocacy efforts as we grow from simply commenting on the proposals and reforms developed by the industry to skipping their framing and suggesting those reforms ourselves.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1lPKqODbPebJb">https://x.com/i/spaces/1lPKqODbPebJb</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>WhyDRS Petition Pages:</p>
+<p>SEC Petitions FAQ and Directory:</p>
+<p><a href="https://www.whydrs.org/sec-petitions-for-rule-updates">https://www.whydrs.org/sec-petitions-for-rule-updates</a></p>
+<p>NSCC Petition Review and Submission:</p>
+<p><a href="https://www.whydrs.org/petition-to-amend-nscc-close-out-policy">https://www.whydrs.org/petition-to-amend-nscc-close-out-policy</a></p>
+        <p>-</p>
+<p>Information from WhatCanIMakeToday and John Wooten about the OCC proposal to adjust margin and cascade of responsibilities in case of clearing member failures:</p>
+<p><a href="https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margin_requirements_to/">https://www.reddit.com/r/Superstonk/comments/1ae0toi/occ_proposes_reducing_margin_requirements_to/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 43 - Unraveling the Activist Investor Mindset with BeyondMythos</title>
+      <pubDate>Wed, 04 Sep 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_9a819f47241e44a88593a6761e4bfffc.mp3" type="audio/mpeg" length="40010872" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_9a819f47241e44a88593a6761e4bfffc.mp3</guid>
+      <itunes:duration>59:06</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives was joined by @beyond-mythos, who has been growing a following around his research into how investors interact with the market, and how a company can be identified as a candidate for activism.</p>
+        <p>We'll dive into these topics and ask Beyond how his interest in these subjects started in the first place!</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/tehchives/status/1830666523159212349">https://x.com/tehchives/status/1830666523159212349</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>BeyondMythos's research can be found here:</p>
+<p><a href="https://x.com/i/communities/1815368353172557836">https://x.com/i/communities/1815368353172557836</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 42 - Diligence when Researching and Learning</title>
+      <pubDate>Wed, 28 Aug 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_e87bdeb1f8b949dfb319078da6842e18.mp3" type="audio/mpeg" length="25851328" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_e87bdeb1f8b949dfb319078da6842e18.mp3</guid>
+      <itunes:duration>31:00</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives takes a look at taking care and appraising sources carefully when trying to learn.</p>
+        <p>He goes over some helpful habits that can help when examining a source or reading a perspective online, such as keeping in mind that the figure behind the source may have it's own motives beyond helping you better understand a subject.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/tehchives/status/1828884998734098916">https://x.com/tehchives/status/1828884998734098916</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>SEC webiste</p>
+<p><a href="https://www.investor.gov/">https://www.investor.gov/</a></p>
+        <p>-</p>
+<p>Federal Register</p>
+<p><a href="https://www.federalregister.gov/">https://www.federalregister.gov/</a></p>
+        <p>-</p>
+<p>Federal Reserve</p>
+<p><a href="https://www.federalreserve.gov/data.htm">https://www.federalreserve.gov/data.htm</a></p>
+        <p>-</p>
+<p>FRED Economic Data</p>
+<p><a href="https://fred.stlouisfed.org/">https://fred.stlouisfed.org/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 41 - Regulation in the Transfer Agent Sector</title>
+      <pubDate>Wed, 21 Aug 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_7a7276b9020b468ba2c660ea7fee520f.mp3" type="audio/mpeg" length="46452666" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_7a7276b9020b468ba2c660ea7fee520f.mp3</guid>
+      <itunes:duration>01:50:35</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week Chives focuses on regulation in the Transfer Agent space, and we'll touch not only on recent SEC action against TA but on the broader regime, and how we've seen a variety of consolidation in the market sector.</p>
+        <p>Chives was joined by John Wooten who has a unique and valuable perspective as someone who founded his own Transfer Agent and has been through the approval process with the SEC, and we can hear from him about how the decision to regulate TAs in this way has downstream effects on not only custody and investor safety but on the market itself.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1lDxLlbpeoqxm">https://x.com/i/spaces/1lDxLlbpeoqxm</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>SEC Charges Equiniti Trust Co.</p>
+<p><a href="https://www.sec.gov/newsroom/press-releases/2024-101">https://www.sec.gov/newsroom/press-releases/2024-101</a></p>
+        <p>-</p>
+<p>Transfer Agent Market Share as of 2022</p>
+<p><a href="https://www.ideagen.com/thought-leadership/blog/transfer-agent-market-share-2022">https://www.ideagen.com/thought-leadership/blog/transfer-agent-market-share-2022</a></p>
+        <p>-</p>
+<p>Equiniti and AST Merger After Being Bought by Siris Capital Group</p>
+<p><a href="https://equiniti.com/uk/news-and-views/news-releases/affiliates-of-siris-capital-group-complete-the-acquisition-and-combination-of-equiniti-and-ast/">https://equiniti.com/uk/news-and-views/news-releases/affiliates-of-siris-capital-group-complete-the-acquisition-and-combination-of-equiniti-and-ast/</a></p>
+        <p>-</p>
+<p>Computershare's Aquisition of BNY Canada</p>
+<p><a href="https://www.computershare.com/us/news/computershare-to-buy-bny-trust-company-of-canada">https://www.computershare.com/us/news/computershare-to-buy-bny-trust-company-of-canada</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 40 - The Power of Retail Investors with Alexandra Merz</title>
+      <pubDate>Wed, 14 Aug 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_dc05e81357f54199bee6b3d704ae0c9b.mp3" type="audio/mpeg" length="46614666" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_dc05e81357f54199bee6b3d704ae0c9b.mp3</guid>
+      <itunes:duration>01:04:44</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week Chives is joined by Tesla community activist Alexander Merz, AKA TeslaBoomerMama, to discuss the power that retail investors have.</p>
+        <p>The Tesla investor community is one of, if not the largest one in the world and recently had a large struggle with accessing their right to vote. Alexandra provides valuable insight as an international investor, as an organizer, and as someone who is peeling back the layers and learning more about DRS!</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1YpJklbvmYjxj/peek">https://x.com/i/spaces/1YpJklbvmYjxj/peek</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Alexandra on X</p>
+<p><a href="https://x.com/TeslaBoomerMama">https://x.com/TeslaBoomerMama</a></p>
+        <p>-</p>
+<p>Tesla investor's community page on X</p>
+<p><a href="https://x.com/i/communities/1802325082343121043">https://x.com/i/communities/1802325082343121043</a></p>
+        <p>-</p>
+<p>Our interview with Alexandra on Brighter with Herbert</p>
+<p><a href="https://www.youtube.com/watch?v=RyuNMAUXIPI">https://www.youtube.com/watch?v=RyuNMAUXIPI</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 39 - Tools for Building a Transparent Community</title>
+      <pubDate>Wed, 07 Aug 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_20e7b73c69914ecd9f6a6ac4b10cc571.mp3" type="audio/mpeg" length="41823150" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_20e7b73c69914ecd9f6a6ac4b10cc571.mp3</guid>
+      <itunes:duration>43:33</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week Chives dives into the platforms, bots and other tools we have been using and looking into in order to promote transparency from top to bottom of the community.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1LyxBgprVdyKN/peek">https://x.com/i/spaces/1LyxBgprVdyKN/peek</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>The Artemis Bot</p>
+<p><a href="https://artemis-bot.com/">https://artemis-bot.com/</a></p>
+        <p>-</p>
+<p>More on Lemmy</p>
+<p><a href="https://join-lemmy.org/">https://join-lemmy.org/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 38 - Decentralized Community Governance</title>
+      <pubDate>Wed, 31 Jul 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_9495e65ef15744ebb93e7c50d58888d7.mp3" type="audio/mpeg" length="42067183" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_9495e65ef15744ebb93e7c50d58888d7.mp3</guid>
+      <itunes:duration>01:27:37</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week Chives and John were joined by fellow community member Kirk to discuss decentralized community governance</p>
+<p>Kirk brought to the table his experience in grass roots movements in financial communities or an illuminating discussion.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1DXGydwNDQZKM/peek">https://x.com/i/spaces/1DXGydwNDQZKM/peek</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Kirk on Twitter</p>
+<p><a href="https://x.com/BoldlyGo__">https://x.com/BoldlyGo__</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 37 - Decentralized Community Development With Pasta From Dash</title>
+      <pubDate>Wed, 24 Jul 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_481f5964f36849789354ce0bad32cfc1.mp3" type="audio/mpeg" length="48948797" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_481f5964f36849789354ce0bad32cfc1.mp3</guid>
+      <itunes:duration>01:39:50</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week Chive and John were joined by Pasta, a core developer from Dash, to discuss decentralized community development.</p>
+<p>Pasta has been developing with Dash for several years and offers fantastic insight into how Dash has developed as a currency and as a community.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1LyGBgPDZYkJN/peek">https://x.com/i/spaces/1LyGBgPDZYkJN/peek</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Listen to more Pasta talking about Dash</p>
+<p><a href="https://www.youtube.com/results?search_query=digital+cash+network+pasta">https://www.youtube.com/results?search_query=digital+cash+network+pasta</a></p>
+        <p>-</p>
+<p>More on Dash</p>
+<p><a href="https://www.dash.org/faq/">https://www.dash.org/faq/</a></p>
+        <p>-</p>
+<p>More on Pasta</p>
+<p><a href="https://x.com/DashBoost_Pasta">https://x.com/DashBoost_Pasta</a></p>
+<p><a href="https://www.dash.org/forum/index.php?members/pasta.12934/">https://www.dash.org/forum/index.php?members/pasta.12934/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 36 - Decentralizing DRS Educational Work</title>
+      <pubDate>Wed, 17 Jul 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_348fdf5a8ce94416b13de58c513ace49.mp3" type="audio/mpeg" length="50600959" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_348fdf5a8ce94416b13de58c513ace49.mp3</guid>
+      <itunes:duration>01:00:14</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week John hosted a community discussion where he dove into the labor involved in the non-profit efforts of WhyDRS and how to decentralize the DRS educational work to expand its potential.</p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 35 - WhyDRS DUNA Filing Breakdown, and What's Next?</title>
+      <pubDate>Wed, 03 Jul 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_04f65726b4354ebaba4a281e1d3affe6.mp3" type="audio/mpeg" length="46573327" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_04f65726b4354ebaba4a281e1d3affe6.mp3</guid>
+      <itunes:duration>01:17:36</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week, Chives shares some incredible news - WhyDRS has taken it's first steps and filed as a legal entity, a nonprofit structure with decentralized governance and focused on education.</p>
+<p>Wyoming is the first U.S. state to allow this kind of structure, called a DUNA. While there were similar structure options outside of U.S., this is the first domestic option - and WhyDRS was the first to be approved and filed.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/tehchives/status/1808591534088204666">https://x.com/tehchives/status/1808591534088204666</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Relevant Wyoming Law</p>
+<p><a href="https://www.wyoleg.gov/Legislation/2024/SF0050">https://www.wyoleg.gov/Legislation/2024/SF0050</a></p>
+        <p>-</p>
+<p>Two good articles on the subject</p>
+<p><a href="https://a16zcrypto.com/posts/article/duna-for-daos/">https://a16zcrypto.com/posts/article/duna-for-daos/</a></p>
+<p><a href="https://blog.colony.io/wyomings-duna-what-does-it-mean-for-daos/">https://blog.colony.io/wyomings-duna-what-does-it-mean-for-daos/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+
+<item>
+      <title>Taking Stock Episode 34 - Discussing Dilution Events</title>
+      <pubDate>Wed, 26 Jun 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_3522d72cc4f046ccbf2d617acec5ef7b.mp3" type="audio/mpeg" length="45187567" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_3522d72cc4f046ccbf2d617acec5ef7b.mp3</guid>
+      <itunes:duration>01:34:07</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week Chives takes a deep dive into the different types and methods by which companies dilute stock, some of the common reasons for doing so, and how these dilutions commonly effect investors.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1lDxLPlzoDvxm/">https://x.com/i/spaces/1lDxLPlzoDvxm/</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 33 - Community Check in and WhyDRS Investor Outreach Updates</title>
+      <pubDate>Wed, 19 Jun 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_3fb37156c65f4d3181492e18e45a082e.mp3" type="audio/mpeg" length="49006986" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_3fb37156c65f4d3181492e18e45a082e.mp3</guid>
+      <itunes:duration>01:42:05</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week Chives has returned and checked in with the community, as well as providing updates on the WhyDRS efforts.</p>
+<p>He was joined by some fantastic members of the community and a great discussion was had.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/tehchives/status/1803518007097831592">https://x.com/tehchives/status/1803518007097831592</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Computershare new FAQs</p>
+<p><a href="https://www.computershare.com/us/becoming-a-registered-shareholder-in-us-listed-companies#new">https://www.computershare.com/us/becoming-a-registered-shareholder-in-us-listed-companies#new</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 32 - Permissionless Innovation with Joaquin Soza from Palta Labs</title>
+      <pubDate>Wed, 12 Jun 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_d8f9b9f4e94c44439e1fa693f9072831.mp3" type="audio/mpeg" length="50498672" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_d8f9b9f4e94c44439e1fa693f9072831.mp3</guid>
+      <itunes:duration>01:10:07</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>Bibic and John were joined by Joaquin Soza, an independent developer originally from Chile who has been fascinated by web3 and blockchain development for years.</p>
+<p>The modern internet environment allows for skill development from anywhere, and allows anyone to find an effort which speaks to them and which they can contribute to. Joaquin is working with a development team, Palta Labs, on open source protocols on the Stellar network including a decentralized exchange and smart contracts platform. Joaquin provides a valuable perspective on being part of a diverse and worldwide community for technological development.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/JFWooten4/status/1800981562743279922">https://x.com/JFWooten4/status/1800981562743279922</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Joaquín Soza of Palta Labs</p>
+<p><a href="https://joaquinsoza.dev/">https://joaquinsoza.dev/</a></p>
+<p><a href="https://x.com/coderipper">https://x.com/coderipper</a></p>
+         <p>-</p>
+<p>Palta Labs</p>
+<p><a href="https://paltalabs.io/">https://paltalabs.io/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 31 - DAOs and Grassroots Funding with Miles from FanSociety</title>
+      <pubDate>Wed, 05 Jun 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_7249fa8136834e05823b1a9744446087.mp3" type="audio/mpeg" length="45719887" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_7249fa8136834e05823b1a9744446087.mp3</guid>
+      <itunes:duration>01:16:11</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week, Bibic and John sat down with Miles Patterson from FanSociety. Miles is developing a project which attempts to connect music artists with their fans directly, rather than involving other middlemen as is so common today.</p>
+<p>FanSociety is both a crowdfunding initiative which operates transparently and a decentralized infrastructure which can be used to discover and share new artists. A structure in which artist health and sustainability is in mind from the start, rather than record producers or streaming services, is an excellent application of public blockchain technology and we’re excited to see independent creators succeed.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/Bibic_Jr/status/1798444631694164176">https://x.com/Bibic_Jr/status/1798444631694164176</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>FanSociety</p>
+<p><a href="https://www.fansociety.xyz/">https://www.fansociety.xyz/</a></p>
+        <p>-</p>
+<p>FanSociety’s White Paper</p>
+<p><a href="https://rocky-moon-589.notion.site/FanSociety-Fan-Funding-the-Future-ebdcde35fbad483c9870c89360390084">https://rocky-moon-589.notion.site/FanSociety-Fan-Funding-the-Future-ebdcde35fbad483c9870c89360390084</a></p>
+         <p>-</p>
+<p>Who Gets Paid for a Stream?</p>
+<p><a href="https://www.billboard.com/pro/music-streaming-royalty-payments-explained-song-profits/">https://www.billboard.com/pro/music-streaming-royalty-payments-explained-song-profits/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 30 - Open Source Incentives with Anuhya from Stellar Community Fund</title>
+      <pubDate>Wed, 29 May 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_54c53f7bb45e43669d091132c6b0e147.mp3" type="audio/mpeg" length="50020016" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_54c53f7bb45e43669d091132c6b0e147.mp3</guid>
+      <itunes:duration>01:09:27</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week, Bibic and John sat down with Anuhya Challagundla from the Stellar Community Fund. Anuhya is an open source veteran of the tech industry, and is now working directly with to develop community incentives. build cohesion and encourage growth.</p>
+<p>Whether you are unfamiliar with open source technology or already engaged in a project, this conversation will get you excited about what is possible when a diverse network of passionate individuals can achieve.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/Bibic_Jr/status/1795907904127533488">https://x.com/Bibic_Jr/status/1795907904127533488</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Intro to Stellar</p>
+<p><a href="https://stellar.org/learn/intro-to-stellar">https://stellar.org/learn/intro-to-stellar</a></p>
+        <p>-</p>
+<p>Stellar Community Fund</p>
+<p><a href="https://communityfund.stellar.org/">https://communityfund.stellar.org/</a></p>
+         <p>-</p>
+<p>Stellar Community Fund Handbook</p>
+<p><a href="https://stellarcommunityfund.gitbook.io/scf-handbook">https://stellarcommunityfund.gitbook.io/scf-handbook</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+
+<item>
+      <title>Taking Stock Episode 29 - Open Source and Transparency</title>
+      <pubDate>Wed, 22 May 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_e7883dcd16c449e695e8fce7d300e4b7.mp3" type="audio/mpeg" length="51489786" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_e7883dcd16c449e695e8fce7d300e4b7.mp3</guid>
+      <itunes:duration>02:23:00</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives discusses some of the ways that we could see transparency improve not only in the markets but in general advocacy parameters.</p>
+<p>There are levels to transparency - either of participants to regulators, to participants sharing to all other participants. We'll talk a bit about CAT, about the OCC rules up for comment, and about WhyDRS's future plans to advocate for transparency in the market space.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/tehchives/status/1793371363040006174">https://x.com/tehchives/status/1793371363040006174</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 28 - Future of WhyDRS and the Ownership Advocacy Mission</title>
+      <pubDate>Wed, 01 May 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_7780f3eda287429facda20b610921920.mp3" type="audio/mpeg" length="49548618" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_7780f3eda287429facda20b610921920.mp3</guid>
+      <itunes:duration>01:43:12</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives was joined by John Wooten and together they welcomed open commentary from the community as they discussed the broader aims of WhyDRS and how best to actuate them. The intention to register as a non-profit 501c3 was discussed for the first time, and how that would help realize more potential for ownership advocacy to advance itself. Investors and issuers are self interested to seek a higher ratio of ownership, and the differences between communities are imagined walls. So much more can be accomplished through collective action and drive towards the development of a new market structure, of investors and for investors.</p>
+<p>It is a vision that regards the financial empowerment of individuals not as a means to generate profit but as an end in itself. This perspective is inspired by the belief that true progress in financial democratization can only be achieved when the primary motive is the collective welfare of the community rather than individual or corporate gain.</p>
+<p>This was just the first time broaching this topic, and we’re looking forward to bringing more people and more investor groups into the conversation.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1PlKQDymLakxE">https://twitter.com/i/spaces/1PlKQDymLakxE</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Future of WhyDRS</p>
+<p><a href="https://6d54ae39-63b7-4a30-8aee-9c47d31bcdfc.usrfiles.com/ugd/6d54ae_e9a4d7cd8f964207a420f6d91618ec6e.pdf">https://6d54ae39-63b7-4a30-8aee-9c47d31bcdfc.usrfiles.com/ugd/6d54ae_e9a4d7cd8f964207a420f6d91618ec6e.pdf</a></p>
+        <p>-</p>
+<p>On Block Transfer:</p>
+<p>Main site</p>
+<p><a href="https://www.blocktransfer.com/">https://www.blocktransfer.com/</a></p>
+<p>Yellow Paper</p>
+<p><a href="https://blocktransfer.com/.well-known/yellowpaper.pdf">https://blocktransfer.com/.well-known/yellowpaper.pdf</a></p>
+<p>White Paper</p>
+<p><a href="https://blocktransfer.com/.well-known/whitepaper.pdf">https://blocktransfer.com/.well-known/whitepaper.pdf</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 27 - Issuer Recognition of Naked Short Selling</title>
+      <pubDate>Wed, 24 Apr 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_3e0af50029ff47a9a4ac3e8bd3b3f100.mp3" type="audio/mpeg" length="48992394" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_3e0af50029ff47a9a4ac3e8bd3b3f100.mp3</guid>
+      <itunes:duration>01:08:02</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and 6days discussed some of the developing narratives in the ownership space. Billionaire attention has started to levy more towards short selling and market fairness, and specifically, Truth Social’s CEO has been bringing attention to the potential market abuse from market makers and encouraging shareholders to move shares to the transfer agent to hold in direct registration.</p>
+<p>At time of recording, they had released an 8K drawing attention to an update to their FAQ asking shareholders concerned with short selling to hold shares through the transfer agent. A few days later after this recording, they updated the FAQ page again to include the phrase DRS as well.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1PlKQDrrXbMxE">https://twitter.com/i/spaces/1PlKQDrrXbMxE</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Articles about Elon Musk on abusive short selling</p>
+<p><a href="https://www.businessinsider.com/elon-musk-short-seller-height-joke-shareholder-trial-2023-1">https://www.businessinsider.com/elon-musk-short-seller-height-joke-shareholder-trial-2023-1</a></p>
+<p><a href="https://markets.businessinsider.com/news/stocks/tesla-spacex-ceo-elon-musk-short-selling-should-be-illegal-2019-12-1028733903">https://markets.businessinsider.com/news/stocks/tesla-spacex-ceo-elon-musk-short-selling-should-be-illegal-2019-12-1028733903</a></p>
+<p><a href="https://www.businessinsider.com/elon-musk-sells-red-satin-tesla-short-shorts-2020-7">https://www.businessinsider.com/elon-musk-sells-red-satin-tesla-short-shorts-2020-7</a></p>
+        <p>-</p>
+<p>Patrick Byrne's response to short sellers</p>
+<p><a href="https://finance.yahoo.com/news/patrick-byrne-final-act-overstock-133613713.html">https://finance.yahoo.com/news/patrick-byrne-final-act-overstock-133613713.html</a></p>
+        <p>-</p>
+<p>Truth Social CEO on illegal short selling</p>
+<p><a href="https://www.msn.com/en-us/news/politics/truth-social-owner-trump-media-asks-congress-to-investigate-troubling-market-manipulation-claims/ar-AA1nAhp4">https://www.msn.com/en-us/news/politics/truth-social-owner-trump-media-asks-congress-to-investigate-troubling-market-manipulation-claims/ar-AA1nAhp4</a></p>
+        <p>-</p>
+<p>Thread on Truth Social vs Citadel Securities</p>
+<p><a href="https://twitter.com/sboho/status/1781745474153693363">https://twitter.com/sboho/status/1781745474153693363</a></p>
+        <p>-</p>
+<p>TMTG Investor Relations</p>
+<p><a href="https://ir.tmtgcorp.com/">https://ir.tmtgcorp.com/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 26 - Keep Digging! Asking for Answers from Computershare</title>
+      <pubDate>Wed, 03 Apr 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_edefe2b40fa343a88e0743f02be758b6.mp3" type="audio/mpeg" length="51494358" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_edefe2b40fa343a88e0743f02be758b6.mp3</guid>
+      <itunes:duration>01:25:48</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives was joined by 6days1week to talk in more detail about the community-gathered questions sent over to Computershare. A few days before the time of recording, the WhyDRS team was asked by Paul Conn to narrow the questions down. Chives and 6days discuss six of the questions that they found most important, and some of the possible answers to expect.</p>
+<p>In the show notes below the original set of questions plus the refined smaller list of questions will be linked.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1YpJkwmeDLoJj">https://twitter.com/i/spaces/1YpJkwmeDLoJj</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>Original set of 52 questions</p>
+<p><a href="https://twitter.com/lawsondt/status/1775544195098218662">https://twitter.com/lawsondt/status/1775544195098218662</a></p>
+        <p>-</p>
+<p>High priority questions</p>
+<p><a href="https://twitter.com/lawsondt/status/1782484625568215302">https://twitter.com/lawsondt/status/1782484625568215302</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 25 - Annual Filing Requirements, and What's a Record Holder?</title>
+      <pubDate>Wed, 13 Mar 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_5d70598efcd84881b22f2ae74284f1b8.mp3" type="audio/mpeg" length="47411960" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_5d70598efcd84881b22f2ae74284f1b8.mp3</guid>
+      <itunes:duration>01:05:50</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives was joined by Lawson and 6days to discuss the idea of a record holder and what sort of requirements existed for annual reports such as the 10K. This topic came up because GameStop’s 2023 10K had recently released and the record holder information was missing.</p>
+<p>We reviewed the language and predicted we’d have to see an amendment within about 40 days – but as luck would have it, later in the evening after recording, the amendment was filed. Still a great conversation! Check the links below for relevant legal citation.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1gqGvQbAwlRKB">https://twitter.com/i/spaces/1gqGvQbAwlRKB</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>10-K Reporting Guidelines</p>
+<p><a href="https://www.sec.gov/files/form10-k.pdf">https://www.sec.gov/files/form10-k.pdf</a></p>
+        <p>-</p>
+<p>CFR Legal Code on Disclosure "Set forth the approximate number of holders of each class of common equity of the registrant as of the latest practicable date."</p>
+<p><a href="https://www.law.cornell.edu/cfr/text/17/229.201">https://www.law.cornell.edu/cfr/text/17/229.201</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 24 - Tracking Direct Plan Purchases through Computershare</title>
+      <pubDate>Wed, 06 Mar 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_1758f379c10e4573b189b15afb46bc15.mp3" type="audio/mpeg" length="46788727" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_1758f379c10e4573b189b15afb46bc15.mp3</guid>
+      <itunes:duration>01:37:27</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives was joined by 6days1week to talk about his efforts to track direct plan purchases made through Computershare. Investors have the option to buy directly through the transfer agent and can even set up recurring automatic buys to continue accumulating shares of companies they support.</p>
+<p>These purchases are executed in bulk at the market on a predictable schedule, a framework which could result in less than ideal outcomes for investors in terms of shares received per dollar invested. 6Days prepared some screenshots and graphs to assist in the conversation which are linked in the notes below.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1jMKgmZMVXjJL">https://twitter.com/i/spaces/1jMKgmZMVXjJL</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>AMC Plan Purchase Transaction Numbers</p>
+<p><a href="https://pbs.twimg.com/media/GIk2UcrXYAATWd7?format=jpg&name=900x900">https://pbs.twimg.com/media/GIk2UcrXYAATWd7?format=jpg&name=900x900</a></p>
+        <p>-</p>
+<p>GME Plan Purchase Transaction Numbers</p>
+<p><a href="https://pbs.twimg.com/media/GIk2UanXsAAjiVk?format=jpg&name=900x900">https://pbs.twimg.com/media/GIk2UanXsAAjiVk?format=jpg&name=900x900</a></p>
+        <p>-</p>
+<p>% Fees for Computershare Purchases</p>
+<p><a href="https://pbs.twimg.com/media/GIk2UaDXIAAL11v?format=jpg&name=medium">https://pbs.twimg.com/media/GIk2UaDXIAAL11v?format=jpg&name=medium</a></p>
+        <p>-</p>
+<p>Example Plan Summary Page</p>
+<p><a href="https://pbs.twimg.com/media/GIk2UZVWoAAjz_i?format=jpg&name=large">https://pbs.twimg.com/media/GIk2UZVWoAAjz_i?format=jpg&name=large</a></p>
+        <p>-</p>
+<p>Bank Statement showing Transaction Number Information</p>
+<p><a href="https://pbs.twimg.com/media/GIk2WNUW8AEvFRY?format=jpg&name=900x900">https://pbs.twimg.com/media/GIk2WNUW8AEvFRY?format=jpg&name=900x900</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 23 - NYCB and Banking System</title>
+      <pubDate>Wed, 28 Feb 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_39335cb95f6a4fae9c8d03e2484a8b75.mp3" type="audio/mpeg" length="47393575" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_39335cb95f6a4fae9c8d03e2484a8b75.mp3</guid>
+      <itunes:duration>56:24</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives was joined by Hoose to talk about the term meme stocks, GameStop’s credit card provided through Comenity bank, the banking sector at large, JPMorgan Chase’s plurality of customer deposits, and NYC Bancorp’s needing to be rescued by private equity.</p>
+<p>Many sources to be found at the bottom of the show notes today.</p>
+        <p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1MnGnMXWZWVKO">https://twitter.com/i/spaces/1MnGnMXWZWVKO</a></p>
+        <p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+        <p>-</p>
+<p>Links and Resources:</p>
+<p>GameStop's Credit Card</p>
+<p><a href="https://d.comenity.net/ac/gamestop/public/home">https://d.comenity.net/ac/gamestop/public/home</a></p>
+        <p>-</p>
+<p>JP Morgan & First Republic Bank Articles</p>
+<p><a href="https://www.cbsnews.com/news/first-republic-bank-fdic-jpmorgan-chase-control/">https://www.cbsnews.com/news/first-republic-bank-fdic-jpmorgan-chase-control/</a></p>
+<p><a href="https://www.nytimes.com/2023/05/01/business/first-republic-jpmorgan-fdic.html">https://www.nytimes.com/2023/05/01/business/first-republic-jpmorgan-fdic.html</a></p>
+<p><a href="https://www.npr.org/2023/05/02/1173247344/with-a-recent-takeover-there-are-worries-jpmorgan-chase-has-grown-too-large">https://www.npr.org/2023/05/02/1173247344/with-a-recent-takeover-there-are-worries-jpmorgan-chase-has-grown-too-large</a></p>
+<p><a href="https://www.reuters.com/business/finance/jpmorgans-deal-collapsed-first-republic-explained-2023-05-01/">https://www.reuters.com/business/finance/jpmorgans-deal-collapsed-first-republic-explained-2023-05-01/</a></p>
+        <p>-</p>
+<p>NPR on the FDIC</p>
+<p><a href="https://www.npr.org/2023/03/13/1163138002/the-fdic-insurance-limit-was-last-raised-in-2008-heres-how-it-works">https://www.npr.org/2023/03/13/1163138002/the-fdic-insurance-limit-was-last-raised-in-2008-heres-how-it-works</a></p>
+        <p>-</p>
+<p>Forbes on US Dollar Death Spiral</p>
+<p><a href="https://www.forbes.com/sites/digital-assets/2024/03/04/us-dollar-collapse-bank-of-america-issues-shocking-1-trillion-every-100-days-warning-amid-huge-bitcoin-ethereum-xrp-and-crypto-price-boom-to-rival-gold/amp/">https://www.forbes.com/sites/digital-assets/2024/03/04/us-dollar-collapse-bank-of-america-issues-shocking-1-trillion-every-100-days-warning-amid-huge-bitcoin-ethereum-xrp-and-crypto-price-boom-to-rival-gold/amp/</a></p>
+        <p>-</p>
+<p>MarketWatch on NYCB</p>
+<p><a href="https://www.marketwatch.com/story/nycb-raises-more-than-1-billion-in-equity-investment-anchored-by-former-treasury-secretary-steven-mnuchins-firm-afdd2363">https://www.marketwatch.com/story/nycb-raises-more-than-1-billion-in-equity-investment-anchored-by-former-treasury-secretary-steven-mnuchins-firm-afdd2363</a></p>
+        <p>-</p>
+<p>Wall Street on Parade on NYCB</p>
+<p><a href="https://wallstreetonparade.com/2024/03/new-york-community-bancorp-was-jpmorgans-top-regional-bank-pick-for-2024-its-lost-73-percent-y-t-d-and-had-its-deposit-rating-downgraded-to-junk/">https://wallstreetonparade.com/2024/03/new-york-community-bancorp-was-jpmorgans-top-regional-bank-pick-for-2024-its-lost-73-percent-y-t-d-and-had-its-deposit-rating-downgraded-to-junk/</a></p>
+        <p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 22 - Open Community Discussion Pt 2</title>
+      <pubDate>Wed, 21 Feb 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_66444ab9e034405e8c07a2cfce201e57.mp3" type="audio/mpeg" length="44809160" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_66444ab9e034405e8c07a2cfce201e57.mp3</guid>
+      <itunes:duration>01:14:40</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock we continue the discussion from last week where community members joined and brought up any subject they liked. In this half, crypto and other scarce assets were discussed. John Wooten joined us to talk about his appearance at a recent crypto panel on the subject of investor protections, Chives shared his experience on early crypto lending platforms prior to regulatory oversight, and the group discussed how we can take advantage of new technology while also taking advantage of the century of regulation which can provide needed assistance to retail investors in a market of lopsided influence.</p>
+        <p>TornadoCash and government regulation of open source technologies was also discussed, along with the for and against cases, and lastly John Wooten shared his perspective on the importance of having a central body which would be able to audit trading activity on a blockchain network to add to the discussion around financial regulations.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1OyKAWvnBkLJb">https://twitter.com/i/spaces/1OyKAWvnBkLJb</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 21 - Open Community Discussion Pt 1</title>
+      <pubDate>Wed, 21 Feb 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_7e449647365a493b9fa448fbdfd82379.mp3" type="audio/mpeg" length="46229671" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_7e449647365a493b9fa448fbdfd82379.mp3</guid>
+      <itunes:duration>55:01</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock we welcomed people from the community to take advantage of the open structure of X spaces and join in to discuss whatever they would like. Topics discussed in this episode included FOIA, volume around earnings, Form 4s, and the concept of a Megacorp.</p>
+        <p>The discussion continued on past the 1 hour mark and so we’ve split it in half, so check out the rest in episode 22!</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1OyKAWvnBkLJb">https://twitter.com/i/spaces/1OyKAWvnBkLJb</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 20 - DRS Memory Lane</title>
+      <pubDate>Wed, 14 Feb 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_84d74a56803840efba4988319a73cbd8.mp3" type="audio/mpeg" length="44174346" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_84d74a56803840efba4988319a73cbd8.mp3</guid>
+      <itunes:duration>01:32:00</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week in recognition of the Valentine’s Day holiday, Bibic and Chives looked back at the history of the DRS advocacy efforts they have been part of these last two years.</p>
+        <p>From DRSGME’s launch and ad campaigns to WhyDRS and meeting with Chairman Gary Gensler of the SEC it has been an incredible journey – and while we may spend this episode together looking back, every other day is spent looking forward.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1LyxBnldBMbxN">https://twitter.com/i/spaces/1LyxBnldBMbxN</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>DRSGME advocacy campaign page</p>
+<p><a href="https://www.drsgme.org/advocacy-campaign">https://www.drsgme.org/advocacy-campaign</a></p>
+<p>-</p>
+<p>WhyDRS advocacy page</p>
+<p><a href="https://www.whydrs.org/advocacy">https://www.whydrs.org/advocacy</a></p>
+<p>-</p>
+<p>Subreddit Stats - r/drsyourgme</p>
+<p><a href="https://subredditstats.com/r/drsyourgme">https://subredditstats.com/r/drsyourgme</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+
+<item>
+      <title>Taking Stock Episode 19 - A History of Market Crashes</title>
+      <pubDate>Wed, 7 Feb 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_5796b52233844adf8cfeb7eded976204.mp3" type="audio/mpeg" length="46405003" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_5796b52233844adf8cfeb7eded976204.mp3</guid>
+      <itunes:duration>01:04:26</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Bibic and Chives reviewed the history of major financial panics, crashes and bubbles. Across the history of modern financial markets we have witnessed these recurrent events borne from speculation and hubris within the market – but are they all so simple?</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1yNGaZRegBgJj">https://twitter.com/i/spaces/1yNGaZRegBgJj</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>Daily FX article - A Brief History of Major Financial Bubbles, Crises, and Flash-crashes</p>
+<p><a href="https://www.dailyfx.com/forex/fundamental/article/special_report/2019/09/27/history-of-financial-bubbles-crises-and-flash-crashes.html">https://www.dailyfx.com/forex/fundamental/article/special_report/2019/09/27/history-of-financial-bubbles-crises-and-flash-crashes.html</a></p>
+<p>-</p>
+<p>Wikipedia page on market crashes and bear markets</p>
+<p><a href="https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets">https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets</a></p>
+<p>-</p>
+<p>Investopedia on Market Crashes</p>
+<p><a href="https://www.investopedia.com/timeline-of-stock-market-crashes-5217820">https://www.investopedia.com/timeline-of-stock-market-crashes-5217820</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 18 - The Troubles of Centralization in Markets</title>
+      <pubDate>Wed, 31 Jan 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_388ad8522fbf433a8b80f926cc6cb673.mp3" type="audio/mpeg" length="43996553" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_388ad8522fbf433a8b80f926cc6cb673.mp3</guid>
+      <itunes:duration>45:49</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>After last weeks All About Plan discussion, the conversation ended up continuing into our community segment where friend of the show John Wooten called in to expound on the broader issues which centralization of power and responsibility in the market have caused.</p>
+        <p>We’re releasing this segment as a standalone episode because while it was not directly related to the main topic it absolutely was a great conversation worth sharing with our audience.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1YpKkwjLllwKj">https://x.com/i/spaces/1YpKkwjLllwKj</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 17 - All About Investment Plans; DSPPs, DRIPs, ESOPs and more!</title>
+      <pubDate>Wed, 24 Jan 2024 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_a706bce408804bcea65f5b57b640bcac.mp3" type="audio/mpeg" length="44508426" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_a706bce408804bcea65f5b57b640bcac.mp3</guid>
+      <itunes:duration>01:32:42</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Bibic and Chives were joined by Peruvian Bull, Lawson and 6days1week for an overview of the variety and types of investment plans commonly found in the market today. We pack in the information and were absolutely delighted to have some fellow enthusiasts on the panel.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1YpKkwjLllwKj">https://x.com/i/spaces/1YpKkwjLllwKj</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>Investopedia on DSPPs</p>
+<p><a href="https://www.investopedia.com/terms/d/directstockpurchaseplan.asp">https://www.investopedia.com/terms/d/directstockpurchaseplan.asp</a></p>
+<p>-</p>
+<p>Investopedia on ESOPs</p>
+<p><a href="https://www.investopedia.com/terms/e/esop.asp">https://www.investopedia.com/terms/e/esop.asp</a></p>
+<p>-</p>
+<p>SEC on DRIPs</p>
+<p><a href="https://www.sec.gov/fast-answers/answersdrip">https://www.sec.gov/fast-answers/answersdrip</a></p>
+<p>-</p>
+<p>Peruvian Bull, LawsonDT and 6days1week on YouTube</p>
+<p>Part 1 - <a href="https://www.youtube.com/watch?v=aPEmZ1swPXI">https://www.youtube.com/watch?v=aPEmZ1swPXI</a></p>
+<p>Part 2 - <a href="https://www.youtube.com/watch?v=B7hsjb3OCYs">https://www.youtube.com/watch?v=B7hsjb3OCYs</a></p>
+<p>-</p>
+<p>Plan Purchase Fee Structure</p>
+<p><a href="https://imgur.com/a/SOiEYf4">https://imgur.com/a/SOiEYf4</a></p>
+<p><a href="https://imgur.com/a/b53Mz4A">https://imgur.com/a/b53Mz4A</a></p>
+<p>-</p>
+<p>Computershare Purchase Plan Directory</p>
+<p><a href="https://www-us.computershare.com/Investor/#DirectStock">https://www-us.computershare.com/Investor/#DirectStock</a></p>
+<p>-</p>
+<p>DirectStock Plan Brochure</p>
+<p><a href="https://cda.computershare.com/Content/7bfc0b25-4836-40a4-918c-9a86d658d798">https://cda.computershare.com/Content/7bfc0b25-4836-40a4-918c-9a86d658d798</a></p>
+<p>-</p>
+<p>DepotDirect Plan Brochure</p>
+<p><a href="https://cda.computershare.com/Content/7083886a-ece0-4e01-b19e-19139dbef686">https://cda.computershare.com/Content/7083886a-ece0-4e01-b19e-19139dbef686</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 16 - John Wooten, Founder of BlockTransfer</title>
+      <pubDate>Wed, 13 Dec 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_e983557461d048c7acfcf6db3102cece.mp3" type="audio/mpeg" length="49391850" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_e983557461d048c7acfcf6db3102cece.mp3</guid>
+      <itunes:duration>02:17:10</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives sits down for a full one on one interview with John Wooten. John is a published author, has a series of financial education videos online, and founded BlockTransfer. BlockTransfer is an SEC approved Transfer Agent using a public blockchain called Stellar to track issuer ledgers and investor ownership.</p>
+<p>Chives and John talk broadly about the various major issues which plague the modern capital markets, how a perverse incentive system separates working people from their wealth, and the archaic financial tradition which hasn’t undergone major rethinking in thousands of years. This conversation is a whirlwind and you won’t want to miss it.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1OdJrjdqmjvJX">https://twitter.com/i/spaces/1OdJrjdqmjvJX</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>BlockTransfer Website and Blog</p>
+<p><a href="https://www.blocktransfer.com/blog/">https://www.blocktransfer.com/blog/</a></p>
+<p>-</p>
+<p>John Wooten’s Author Page on Amazon</p>
+<p><a href="https://www.amazon.com/stores/John-F.-Wooten-IV/author/B07N7HS5TS">https://www.amazon.com/stores/John-F.-Wooten-IV/author/B07N7HS5TS</a></p>
+<p>-</p>
+<p>BlockTransfer Patent, using Blockchain to Innovate Transfer Agent tradition</p>
+<p><a href="https://patents.google.com/patent/US20220284507A1">https://patents.google.com/patent/US20220284507A1</a></p>
+<p>-</p>
+<p>BlockTransfer InVenture Prize Presentation</p>
+<p><a href="https://www.youtube.com/watch?v=S75IvkicWD8">https://www.youtube.com/watch?v=S75IvkicWD8</a></p>
+<p>-</p>
+<p>BlockTransfer Stellar Community Fund Pitch</p>
+<p><a href="https://www.youtube.com/watch?v=1Lq51IJDHI0">https://www.youtube.com/watch?v=1Lq51IJDHI0</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 15 - History of DRS and Book Entry Holding + Cede-ing Ownership</title>
+      <pubDate>Wed, 22 Nov 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_003f892f9dde4fba969e3e0dbb0596a4.mp3" type="audio/mpeg" length="49335115" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_003f892f9dde4fba969e3e0dbb0596a4.mp3</guid>
+      <itunes:duration>01:08:30</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and Bibic wrap up this historical miniseries by examining how the vision of the DTC came to fruition and how it impacted the markets at large and how it impacted every day working people. Beneficial ownership has been forced onto everyday investors. The SEC says it’s a choice, but when was the last time DRS was offered to you when investing in a company?</p>
+<p>Dematerialization and the transition to book-entry (otherwise known as an electronic record) are discussed, alongside the introduction of a new character in the story - The Direct Registration System.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1MnxnMAAvzMJO">https://x.com/i/spaces/1MnxnMAAvzMJO</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>History of DRS / Book Entry Holding</p>
+<p><a href="https://www.whydrs.org/post/history-of-drs-book-entry-holding">https://www.whydrs.org/post/history-of-drs-book-entry-holding</a></p>
+<p>-</p>
+<p>Issuers and the DTCC is Choice without a Choice</p>
+<p><a href="https://www.whydrs.org/post/issuers-and-the-dtcc-choice-without-choice">https://www.whydrs.org/post/issuers-and-the-dtcc-choice-without-choice</a></p>
+<p>-</p>
+<p>Paper Securities and Dematerialization</p>
+<p><a href="https://www.forbes.com/sites/tomgroenfeldt/2020/10/15/paper-securities-still-exist-and-dtcc-is-after-them/">https://www.forbes.com/sites/tomgroenfeldt/2020/10/15/paper-securities-still-exist-and-dtcc-is-after-them/</a></p>
+<p>-</p>
+<p>Suzanne Trimbath’s “Super Hero Origin Story of Direct Registration”</p>
+<p><a href="https://nosafebets.com/2021/10/03/super-hero-origin-story-of-the-direct-registration-system-a-transcription/">https://nosafebets.com/2021/10/03/super-hero-origin-story-of-the-direct-registration-system-a-transcription/</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 14 - The Birth of The Depository Trust With Suprprise Guest John Wooten of BlockTransfer</title>
+      <pubDate>Wed, 15 Nov 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_64b8a51b6fb44d9b93fc72845718b4f1.mp3" type="audio/mpeg" length="46620686" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_64b8a51b6fb44d9b93fc72845718b4f1.mp3</guid>
+      <itunes:duration>01:37:06</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and Bibic continue looking back in time, but this week it's to The Great Paperwork Crisis of 1968, which led to the rationalization and birth of The Depository Trust (AKA The DTC). We look at why it made sense for the time, but how it is severely outdated today, and the impact that has on markets.</p>
+<p>We also had a surprise special guest join us. John Wooten of BlockTransfer, the first blockchain based transfer agent. We spoke to John about the ins and outs of how a blockchain based transfer agent works as well as a current SEC proposal that will enable API access to Edgar filings. This kind of access will allow developers to create apps to not only help with searching through the Edgar system, but to help make the filings as well.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1YqxoDqLprbKv">https://twitter.com/i/spaces/1YqxoDqLprbKv</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>The Birth and Rationalization of Cede</p>
+<p><a href="https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company">https://www.whydrs.org/post/cede-ing-ownership-why-almost-all-publicly-traded-stock-belongs-to-one-company</a></p>
+<p>-</p>
+<p>Articles on the Paperwork Crisis of 1968</p>
+<p><a href="https://therepubliccapital.com/blog/the-great-paperwork-crises-of-1968">https://therepubliccapital.com/blog/the-great-paperwork-crises-of-1968</a></p>
+<p><a href="https://www.bbh.com/us/en/bbh-who-we-are/our-story/200-years-of-partnership/the-paperwork-crisis.html">https://www.bbh.com/us/en/bbh-who-we-are/our-story/200-years-of-partnership/the-paperwork-crisis.html</a></p>
+<p>-</p>
+<p>BlockTransfer - Web3 Transfer Agent</p>
+<p><a href="https://www.blocktransfer.com/">https://www.blocktransfer.com/</a></p>
+<p>-</p>
+<p>SEC Proposal - Edgar Next</p>
+<p><a href="https://www.sec.gov/rules/2023/09/edgar-next">https://www.sec.gov/rules/2023/09/edgar-next</a></p>
+<p>-</p>
+<p>DTC/Cede holds 83% of all securities - 1998</p>
+<p><a href="https://www.sechistorical.org/collection/papers/1990/1998_0101_DTCAR_1.pdf">https://www.sechistorical.org/collection/papers/1990/1998_0101_DTCAR_1.pdf</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 13 - The Birth of The Federal Reserve</title>
+      <pubDate>Wed, 08 Nov 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_89158b1fc98448fc8d0fd64720b6803b.mp3" type="audio/mpeg" length="46692673" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_89158b1fc98448fc8d0fd64720b6803b.mp3</guid>
+      <itunes:duration>01:04:50</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and Bibic take a trip back in time to the panic of 1907. A panic caused by wealthy people over leveraging themselves, leading to the public trying to take their money back from their respective banks. The same wealthy people that caused the panic decided they needed to protect themselves from future potential bank runs, this led to the creation of the Federal Reserve.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1djGXNjgddexZ">https://twitter.com/i/spaces/1djGXNjgddexZ</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>The Panic of 1907 and the Birth of The Federal Reserve</p>
+<p><a href="https://www.whydrs.org/post/the-panic-of-1907-and-the-birth-of-the-federal-reserve">https://www.whydrs.org/post/the-panic-of-1907-and-the-birth-of-the-federal-reserve</a></p>
+<p>-</p>
+<p>The Creature from Jekyll Island</p>
+<p><a href="https://archive.org/details/TheCreatureFromJekyllIslandByG.EdwardGriffin">https://archive.org/details/TheCreatureFromJekyllIslandByG.EdwardGriffin</a></p>
+<p>-</p>
+<p>Companies Who Encourage Direct Registration</p>
+<p><a href="https://www.whydrs.org/companies-who-encourage-drs">https://www.whydrs.org/companies-who-encourage-drs</a></p>
+<p>-</p>
+<p>Computershared.net is back!</p>
+<p><a href="https://www.computershared.net/">https://www.computershared.net/</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 12 - DRSing From Around The World</title>
+      <pubDate>Wed, 01 Nov 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_36b48d080c2948edb513074622fced6e.mp3" type="audio/mpeg" length="43913371" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_36b48d080c2948edb513074622fced6e.mp3</guid>
+      <itunes:duration>01:13:10</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and Bibic dive into the various methods and fees to DRS transfer from brokers around the world. Using the information gathered for the 140+ broker guides Bibic has worked on over the past couple of years, many differences and similarities were able to be drawn upon.</p>
+<p>If your broker has not been covered by our resources, please reach out and we will be happy to help you through the process.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1lPJqbaRNRLxb">https://twitter.com/i/spaces/1lPJqbaRNRLxb</a> </p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>International Holders for GameStop (3 images)</p>
+<p><a href="https://www.reddit.com/r/drsgme/comments/14lcd9w/international_record_holders_for_gamestop_3_images/">https://www.reddit.com/r/drsgme/comments/14lcd9w/international_record_holders_for_gamestop_3_images/</a></p>
+<p>-</p>
+<p>Letter of Instruction Template – Fillable PDF file</p>
+<p><a href="https://web.archive.org/web/20221109151444/https://06e09f6c-b9f2-4a8a-851d-9286ef3cc686.usrfiles.com/ugd/06e09f_dc00d422894f42ca90fd246c6139b1b8.pdf">https://web.archive.org/web/20221109151444/https://06e09f6c-b9f2-4a8a-851d-9286ef3cc686.usrfiles.com/ugd/06e09f_dc00d422894f42ca90fd246c6139b1b8.pdf</a></p>
+<p>-</p>
+<p>Companies Who Encourage Direct Registration</p>
+<p><a href="https://www.whydrs.org/companies-who-encourage-drs">https://www.whydrs.org/companies-who-encourage-drs</a></p>
+<p>-</p>
+<p>Computershared.net is back!</p>
+<p><a href="https://www.computershared.net/">https://www.computershared.net/</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 11 - All About Ownership Part 2 - The Links of Ownership</title>
+      <pubDate>Wed, 25 Oct 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_281e296345664c0e8817c5cdf0d042d0.mp3" type="audio/mpeg" length="46195924" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_281e296345664c0e8817c5cdf0d042d0.mp3</guid>
+      <itunes:duration>54:59</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and Bibic follow up from last week’s SEC bulletin breakdown with a handy diagram that visualises the 3 different forms of digital shareholdings, and the various forms of ownership associated with them.</p>
+<p>It’s important to learn what distinguishes each form of holdings as well as each form of ownership from each other. For example, being a beneficial owner, and a registered owner isn’t mutually exclusive. You can actually be both at the same time. Listen along or check out the links of ownership page linked below for more information.</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://twitter.com/i/spaces/1vOxwjnyOoMJB">https://twitter.com/i/spaces/1vOxwjnyOoMJB</a> </p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>The Links of Ownership</p>
+<p><a href="https://www.drsgme.org/the-links-of-ownership">https://www.drsgme.org/the-links-of-ownership</a></p>
+<p>-</p>
+<p>SEC Bulletin Get the Facts!</p>
+<p><a href="https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts">https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts</a></p>
+<p>-</p>
+<p>FINRA Bulletin Know the Facts!</p>
+<p><a href="https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares">https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares</a></p>
+<p>-</p>
+<p>Computershare FAQ on Plan / DRS holdings</p>
+<p><a href="https://www.computershare.com/us/becoming-a-registered-shareholder-in-us-listed-companies#dspp">https://www.computershare.com/us/becoming-a-registered-shareholder-in-us-listed-companies#dspp</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 10 - All About Ownership Part 1 - The SEC/FINRA Bulletin</title>
+      <pubDate>Wed, 18 Oct 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_75b2f852796b4908b939a989278c8fa1.mp3" type="audio/mpeg" length="50346568" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_75b2f852796b4908b939a989278c8fa1.mp3</guid>
+      <itunes:duration>59:55</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and Bibic are back after last weeks break with another spotlight episode on Ownership. There is so much nuance to straighten out in just a single word! We’ll be pulling out the sources so you all can follow along with our logic and conclusions. This conversation needs to be had - and needs to continue being had - in order for everyone to make the holding choice which is best for them.</p>
+<p>The regulatory agencies, self regulating organizations, and the transfer agents are all on the same page about the difference in ownership between Plan and DRS. Let’s get ourselves on that same page too!</p>
+<p>-</p>
+<p>Twitter/X Link:</p>
+<p><a href="https://x.com/i/spaces/1zqJVqyDVZDGB">https://x.com/i/spaces/1zqJVqyDVZDGB</a> </p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>Computershared.net is back!</p>
+<p><a href="https://www.computershared.net/">https://www.computershared.net/</a></p>
+<p>-</p>
+<p>SEC Bulletin Get the Facts!</p>
+<p><a href="https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts">https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts</a></p>
+<p>-</p>
+<p>FINRA Bulletin Know the Facts!</p>
+<p><a href="https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares">https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares</a></p>
+<p>-</p>
+<p>Computershare FAQ on Plan / DRS holdings</p>
+<p><a href="https://www.computershare.com/us/becoming-a-registered-shareholder-in-us-listed-companies#dspp">https://www.computershare.com/us/becoming-a-registered-shareholder-in-us-listed-companies#dspp</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+<item>
+      <title>Taking Stock Episode 9 - What is a Share? With jackofspades123 Pt2</title>
+      <pubDate>Wed, 27 Sep 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_6932bd64e6304293af295a7d2b4733c2.mp3" type="audio/mpeg" length="46544094" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_6932bd64e6304293af295a7d2b4733c2.mp3</guid>
+      <itunes:duration>55:24</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, we continued the conversation with Jack where we left off last week - how the separation of voting and economic rights can be realized by actors intentionally using market mechanics, and what downstream effects that can have on retail investors - including the tax implications on regular people from the largest participants in the market.</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://imgur.com/bwKx3OD">https://imgur.com/bwKx3OD</a> </p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>jackofspades123 Slideshow on Failures to Deliver</p>
+<p><a href="https://imgur.com/a/60QROdr">https://imgur.com/a/60QROdr</a></p>
+<p>-</p>
+<p>Babel Source Congressional Report Dec 06 1991</p>
+<p><a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015087623214&view=1up&seq=1249&skin=2021">https://babel.hathitrust.org/cgi/pt?id=mdp.39015087623214&view=1up&seq=1249&skin=2021</a></p>
+<p>-</p>
+<p>FINRA Source Link</p>
+<p><a href="https://www.finra.org/rules-guidance/notices/93-53">https://www.finra.org/rules-guidance/notices/93-53</a></p>
+<p>-</p>
+<p>Actual Law</p>
+<p><a href="https://www.law.cornell.edu/cfr/text/17/240.15c3-3">https://www.law.cornell.edu/cfr/text/17/240.15c3-3</a></p>
+<p>-</p>
+<p>Leslie Boni Source</p>
+<p><a href="https://vdocument.in/leslie-boni.html">https://vdocument.in/leslie-boni.html</a></p>
+<p>-</p>
+<p>Market To Market Accounting Investopedia</p>
+<p><a href="https://www.investopedia.com/terms/m/marktomarket.asp">https://www.investopedia.com/terms/m/marktomarket.asp</a></p>
+<p>-</p>
+<p>DTCC on Settlement"</p>
+<p><a href="https://www.dtcc.com/-/media/Files/Downloads/legal/service-guides/Settlement.pdf">https://www.dtcc.com/-/media/Files/Downloads/legal/service-guides/Settlement.pdf</a></p>      
+<p>-</p>
+<p>Asimar & Trimbath Source</p>
+<p><a href="https://www.aimspress.com/article/id/6360d16eba35de77c348c2c4">https://www.aimspress.com/article/id/6360d16eba35de77c348c2c4</a></p>
+<p>-</p>
+<p>Richard L Gregg Aged Treasury Fails Source</p>
+<p><a href="https://www.treasurydirect.gov/laws-and-regulations/gsa/regulatory-cites/cite-11-22-1989-2/#:~:text=A%20fail%20becomes%20aged%20when,of%20time%20beyond%20settlement%20date">https://www.treasurydirect.gov/laws-and-regulations/gsa/regulatory-cites/cite-11-22-1989-2/#:~:text=A%20fail%20becomes%20aged%20when,of%20time%20beyond%20settlement%20date</a></p>
+<p>-</p>
+<p>Taxes: Wash Sale Source</p>
+<p><a href="https://www.irs.gov/pub/irs-pdf/p550.pdf">https://www.irs.gov/pub/irs-pdf/p550.pdf</a></p>
+<p>-</p>
+<p>Shorting Against The Box Investopedia</p>
+<p><a href="https://www.investopedia.com/terms/s/sellagainstthebox.asp#:~:text=For%20example%2C%20if%20you%20own,the%20short%20position%20in%20another">https://www.investopedia.com/terms/s/sellagainstthebox.asp#:~:text=For%20example%2C%20if%20you%20own,the%20short%20position%20in%20another</a></p>
+<p>-</p>
+<p>Shorting Against The Box Law Source</p>
+<p><a href="https://www.law.cornell.edu/uscode/text/26/1259">https://www.law.cornell.edu/uscode/text/26/1259</a></p>       
+<p>-</p>
+<p>Shorting Against The Box Law Source</p>
+<p><a href="https://www.law.cornell.edu/uscode/text/26/1259">https://www.law.cornell.edu/uscode/text/26/1259</a></p>   
+<p>-</p>
+<p>Empty Voting & Taxes Source</p>
+<p><a href="https://ccl.yale.edu/sites/default/files/files/PM-6-Bus-Law-Hu-Black.pdf">https://ccl.yale.edu/sites/default/files/files/PM-6-Bus-Law-Hu-Black.pdf</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+    <item>
+      <title>Taking Stock Episode 8 - What is a Share? With jackofspades123 Pt1</title>
+      <pubDate>Wed, 27 Sep 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_dfd625ecd0304ea79678517aa478a8b8.mp3" type="audio/mpeg" length="45850552" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_dfd625ecd0304ea79678517aa478a8b8.mp3</guid>
+      <itunes:duration>54:34</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, we dove into the economic and voting rights which an investor is granted after purchase, and what assumptions investors make about those rights. jackofspades123 joined us for this deep dive, and we had a great conversation! Jack prepared some slides and sources - these slideshows are linked in the show notes.</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://imgur.com/BzfKmKo">https://imgur.com/BzfKmKo</a> </p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>Computershared.net is back!</p>
+<p><a href="https://www.computershared.net/">https://www.computershared.net/</a></p>
+<p>-</p>
+<p>jackofspades123 Slideshow on Voting Rights</p>
+<p><a href="https://imgur.com/a/wrNlVP3">https://imgur.com/a/wrNlVP3</a></p>
+<p>-</p>
+<p>jackofspades123 Slideshow on Settlement</p>
+<p><a href="https://imgur.com/a/nO8gJHc">https://imgur.com/a/nO8gJHc</a></p>
+<p>-</p>
+<p>Babel Source Congressional Report Dec 06 1991</p>
+<p><a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015087623214&view=1up&seq=1249">https://babel.hathitrust.org/cgi/pt?id=mdp.39015087623214&view=1up&seq=1249</a></p>
+<p>-</p>
+<p>Security Entitlements Source Link</p>
+<p><a href="https://www.sec.gov/news/speech/2007/spch101607ers.htm">https://www.sec.gov/news/speech/2007/spch101607ers.htm</a></p>
+<p>-</p>
+<p>One Share One Vote Source</p>
+<p><a href="https://scholarlycommons.law.hofstra.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1166&context=faculty_scholarship">https://scholarlycommons.law.hofstra.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1166&context=faculty_scholarship</a></p>
+<p>-</p>
+<p>Pre/Post Reconciliation Source</p>
+<p><a href="https://katten.com/files/21384_proxy-vote-processing-issues.pdf">https://katten.com/files/21384_proxy-vote-processing-issues.pdf</a></p>
+<p>-</p>
+<p>Broadridge Comment Letter Source</p>
+<p><a href="https://www.sec.gov/comments/4-681/4681-6355043-196249.pdf">https://www.sec.gov/comments/4-681/4681-6355043-196249.pdf</a></p>
+<p>-</p>
+<p>Bob Drummond - "Corporate Voting Charade"</p>
+<p><a href="https://web.archive.org/web/20060421085925/http://www.rgm.com/articles/FalseProxies.pdf">https://web.archive.org/web/20060421085925/http://www.rgm.com/articles/FalseProxies.pdf</a></p>      
+<p>-</p>
+<p>Empty voting Source</p>
+<p><a href="https://ccl.yale.edu/sites/default/files/files/PM-6-Bus-Law-Hu-Black.pdf">https://ccl.yale.edu/sites/default/files/files/PM-6-Bus-Law-Hu-Black.pdf</a></p>
+<p>-</p>
+<p>North American Securities Administrators Association Inc. Comment Letter</p>
+<p><a href="https://www.sec.gov/comments/s7-12-06/jpborg7410.pdf">https://www.sec.gov/comments/s7-12-06/jpborg7410.pdf</a></p>
+<p>-</p>
+<p>EuroMoney Article</p>
+<p><a href="https://www.euromoney.com/article/b1320x8lxd0ksk/naked-short-selling-letters-to-the-editor-dtcc-and-r-j-shapiro#answer">https://www.euromoney.com/article/b1320x8lxd0ksk/naked-short-selling-letters-to-the-editor-dtcc-and-r-j-shapiro#answer</a></p>
+<p>-</p>
+<p>Congressional Report Dec 06 1991</p>
+<p><a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015087623214&view=1up&seq=1249&skin=2021">https://babel.hathitrust.org/cgi/pt?id=mdp.39015087623214&view=1up&seq=1249&skin=2021</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+    
+    <item>
+      <title>Taking Stock Episode 7 - Talking with Bill Pulte and Kevin Malone</title>
+      <pubDate>Wed, 20 Sep 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_9ac4d1b0afb349c1912201d52eeef7e1.mp3" type="audio/mpeg" length="50945847" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_9ac4d1b0afb349c1912201d52eeef7e1.mp3</guid>
+      <itunes:duration>1:24:54</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, hosts Lawson, Chives and Bibic were joined by Bill Pulte and Kevin Mallone in order to discuss a variety of pressing community topics. Bill and Kevin are two of the larger figures in our investing advocacy community and they shared their perspectives on dealing with online criticism, with seeking truth, with evaluating the SEC, and on the details of the Plan and Book designation distinctions. There was a lot of passion and a lot of wisdom on display here. It’s always great being able to have these discussions.</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://imgur.com/3KB9wRd">https://imgur.com/3KB9wRd</a> </p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>Computershared.net is back!</p>
+<p><a href="https://www.computershared.net/">https://www.computershared.net/</a></p>
+<p>-</p>
+<p>Kevin Malone’s new Charity</p>
+<p><a href="https://twitter.com/malone_wealth/status/1704602400324190449">https://twitter.com/malone_wealth/status/1704602400324190449</a></p>
+<p>-</p>
+<p>SEC Bulletin - Get the Facts about Holding Securities</p>
+<p><a href="https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts">https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts</a></p>
+<p>-</p>
+<p>Computershare update on plan shares</p>
+<p><a href="https://youtube.com/watch?v=9Ii-5tgvZKk&amp;t=89s">https://youtube.com/watch?v=9Ii-5tgvZKk&amp;t=89s</a></p>
+<p>-</p>
+<p>With plan, investors names are in a subclass</p>
+<p><a href="https://youtu.be/bo427AW0anw?t=731">https://youtu.be/bo427AW0anw?t=731</a></p>
+<p>-</p>
+<p>DirectStock brochure</p>
+<p><a href="https://cda.computershare.com/Content/7bfc0b25-4836-40a4-918c-9a86d658d798">https://cda.computershare.com/Content/7bfc0b25-4836-40a4-918c-9a86d658d798</a></p>
+<p>-</p>
+<p>Pulte’s Tweet about DRS Friction</p>
+<p><a href="https://x.com/pulte/status/1661155862335946753">https://x.com/pulte/status/1661155862335946753</a></p>
+<p>-</p>
+<p>GME 2023 Stockholder List Data</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/d5f98246-3bf2-40c8-b96e-2c15c20aedb9.png">https://lemmy.whynotdrs.org/pictrs/image/d5f98246-3bf2-40c8-b96e-2c15c20aedb9.png</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+  </item>
+
+  <item>
+      <title>Taking Stock Episode 6 - The UK Proposal Trying To End Direct Registration</title>
+      <pubDate>Wed, 13 Sep 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_d2a0d8c46f1f4f47b379e7ea889774cf.mp3" type="audio/mpeg" length="45656968" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_d2a0d8c46f1f4f47b379e7ea889774cf.mp3</guid>
+      <itunes:duration>1:35:06</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives and Bibic dove into the recently announced UK Taskforce’s action proposal which seeks to explore feasible routes to full dematerialization of share certificates. Not all solutions are made equal, and the proposal’s favorite solution involves forcing investors to hold through a centralized depository’s nominee rather than holding for themselves and in their own name.</p>
+<p>We had a great guest speaker Bellweirboy who joined the call in order to help make sure listeners understood the current impact of the proposal as written, and encouraged collective action through parliament and direct democracy for all UK natives. For everyone else, online comments can be submitted until September 25th 2023.</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://lemmy.whynotdrs.org/post/201103">https://lemmy.whynotdrs.org/post/201103</a> </p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources:</p>
+<p>The UK’s Digitization Taskforce</p>
+<p><a href="https://www.gov.uk/government/publications/digitisation-taskforce">https://www.gov.uk/government/publications/digitisation-taskforce</a></p>
+<p>-</p>
+<p>Full Report from the Taskforce</p>
+<p><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1168398/digitisation_report.pdf">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1168398/digitisation_report.pdf</a></p>
+<p>-</p>
+<p>Computershare’s response to the Report</p>
+<p><a href="https://content-assets.computershare.com/eh96rkuu9740/b6d2096ed675446da100e6b5ccbcbc92/1078b3957fdbedbdffbd67ee9278a9c3/SCRR-Digitisation-of-Shareholdings-Discussion-Paper.pdf">https://content-assets.computershare.com/eh96rkuu9740/b6d2096ed675446da100e6b5ccbcbc92/1078b3957fdbedbdffbd67ee9278a9c3/SCRR-Digitisation-of-Shareholdings-Discussion-Paper.pdf</a></p>
+<p>-</p>
+<p>Shareholder Activism Website and Email Template</p>
+<p><a href="https://www.shareholder-feedback.com/en/home/">https://www.shareholder-feedback.com/en/home/</a></p>
+<p>-</p>
+<p>BibicJr’s post, pinned on GMEJungle</p>
+<p><a href="https://www.reddit.com/r/GMEJungle/comments/16aqdnn/this_uk_taskforce_is_discretely_pushing_for_a_new/">https://www.reddit.com/r/Superstonk/comments/16de7gy/moass_must_be_close_the_uk_government_are/</a></p>
+<p>-</p>
+<p>Kibblepigeon’s post on Superstonk</p>
+<p><a href="https://www.reddit.com/r/Superstonk/comments/16de7gy/moass_must_be_close_the_uk_government_are/">https://www.reddit.com/r/Superstonk/comments/16de7gy/moass_must_be_close_the_uk_government_are/</a></p>
+<p>-</p>
+<p>Other example letters</p>
+<p><a href="https://www.reddit.com/r/Superstonk/comments/16gi9fk/a_letter_to_uks_hm_treasury_from_a_concerned/">https://www.reddit.com/r/Superstonk/comments/16gi9fk/a_letter_to_uks_hm_treasury_from_a_concerned/</a></p>
+<p><a href="https://www.reddit.com/r/Superstonk/comments/16fwpb0/uk_ape_speaking_up_for_investorspotentially/">https://www.reddit.com/r/Superstonk/comments/16fwpb0/uk_ape_speaking_up_for_investorspotentially/</a></p>
+<p><a href="https://www.reddit.com/r/Superstonk/comments/16bm942/i_do_not_approve_of_you_removing_my_rights/">https://www.reddit.com/r/Superstonk/comments/16bm942/i_do_not_approve_of_you_removing_my_rights/</a></p>
+<p>-</p>
+<p>SEC Bulletin - Get the Facts about Holding Securities</p>
+<p><a href="https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts">https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts</a></p>
+<p>-</p>
+<p>FINRA Bulletin - Know the Facts about Direct Registered Shares</p>
+<p><a href="https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares">https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+    </item>
+    
+    <item>
+      <title>Taking Stock Episode 5 - Stockholder Proposals</title>
+      <pubDate>Wed, 23 Aug 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_4469e77eb2274b3da4f80942a327abf6.mp3" type="audio/mpeg" length="46625704" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_4469e77eb2274b3da4f80942a327abf6.mp3</guid>
+      <itunes:duration>55:30</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, Chives provided a spoken overview of the shareholder proposal process - how to check eligibility to submit, how to send your proposal, and what happens afterwards.</p>
+<p>This was a fantastic episode and we covered a ton of ground. There were also some great questions from the community following the overview. This is an evergreen episode and may be helpful every proposal season - and likely, we’ll revisit this topic in a few months closer to the collective 2024 deadline.</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://lemmy.whynotdrs.org/post/127346">https://lemmy.whynotdrs.org/post/127346</a> </p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Resources:</p>
+<p>WhyDRS Shareholder Proposals Guide</p>
+<p><a href="https://www.whydrs.org/shareholder-proposals-guide">https://www.whydrs.org/shareholder-proposals-guide</a></p>
+<p>-</p>
+<p>WhyDRS Database</p>
+<p><a href="https://lemmy.whynotdrs.org/post/21495">https://lemmy.whynotdrs.org/post/21495</a></p>
+<p>-</p>
+<p>GiveAshare Spotlight on WhyDRS</p>
+<p><a href="https://www.whydrs.org/buy-direct-using-give-a-share">https://www.whydrs.org/buy-direct-using-give-a-share</a></p>
+<p>-</p>
+<p>Federal Law</p>
+<p><a href="https://www.sec.gov/divisions/corpfin/rule-14a-8.pdf">https://www.sec.gov/divisions/corpfin/rule-14a-8.pdf</a></p>
+<p>More Federal Law</p>
+<p><a href="https://www.ecfr.gov/current/title-17/chapter-II/part-240/section-240.14a-8">https://www.ecfr.gov/current/title-17/chapter-II/part-240/section-240.14a-8</a></p>
+<p>WhyDRS Proposals Guide</p>
+<p><a href="https://www.whydrs.org/shareholder-proposals-guide">https://www.whydrs.org/shareholder-proposals-guide</a></p>
+<p>SEC No-Action Proposals Directory</p>
+<p><a href="https://www.sec.gov/corpfin/2022-2023-shareholder-proposals-no-action">https://www.sec.gov/corpfin/2022-2023-shareholder-proposals-no-action</a></p>
+<p>Napkin maths on calculating eligibility</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/3d0e40e5-60ac-4829-8408-1f70717929c1.png">https://lemmy.whynotdrs.org/pictrs/image/3d0e40e5-60ac-4829-8408-1f70717929c1.png</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+    </item>
+    
+    <item>
+      <title>Taking Stock Episode 4 - Talking With 6days1week, Heat Lamp Author</title>
+      <pubDate>Wed, 16 Aug 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_aca9e5ae4a894372b90f2050cd01b89a.mp3" type="audio/mpeg" length="47671624" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_aca9e5ae4a894372b90f2050cd01b89a.mp3</guid>
+      <itunes:duration>1:39:18</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock there were some great discussions about autobuys, plan shares, and 606 Reports which allow for investors to access bulk trading data of which their orders are included. However, there were some internet issues and technical difficulties during the call - we’ve tried to fix as much of this in editing as possible for the mp3 download.
+
+During the call with 6days, we discussed 6 documents which he had supplied ahead of time. They are included under Links and Resources and numbered.</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://lemmy.whynotdrs.org/post/104396">https://lemmy.whynotdrs.org/post/104396</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Resources:</p>
+<p>WhyDRS Shareholder Proposals Guide</p>
+<p><a href="https://www.whydrs.org/shareholder-proposals-guide">https://www.whydrs.org/shareholder-proposals-guide</a></p>
+<p>-</p>
+<p>WhyDRS Database</p>
+<p><a href="https://lemmy.whynotdrs.org/post/21495">https://lemmy.whynotdrs.org/post/21495</a></p>
+<p>-</p>
+<p>GiveAshare Spotlight on WhyDRS</p>
+<p><a href="https://www.whydrs.org/buy-direct-using-give-a-share">https://www.whydrs.org/buy-direct-using-give-a-share</a></p>
+<p>-</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Links and Resources</p>
+<p>Photo 1:</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/6d195621-b24b-4889-90c0-929664950846.jpeg">https://lemmy.whynotdrs.org/pictrs/image/6d195621-b24b-4889-90c0-929664950846.jpeg</a></p>
+<p>Photo 2:</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/b6b6affe-5ab0-4d89-8b67-29500a4fd1cf.jpeg">https://lemmy.whynotdrs.org/pictrs/image/b6b6affe-5ab0-4d89-8b67-29500a4fd1cf.jpeg</a></p>
+<p>Photo 3:</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/4eabac4c-ff93-4e5e-a114-a5616cf0c208.jpeg">https://lemmy.whynotdrs.org/pictrs/image/4eabac4c-ff93-4e5e-a114-a5616cf0c208.jpeg</a></p>
+<p>Photo 4:</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/e8011a8d-888e-4b2a-882c-e5dd1b3bf86a.jpeg">https://lemmy.whynotdrs.org/pictrs/image/e8011a8d-888e-4b2a-882c-e5dd1b3bf86a.jpeg</a></p>
+<p>Photo 5:</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/1ec86cfe-f846-4cee-baea-0e736de5ce75.jpeg">https://lemmy.whynotdrs.org/pictrs/image/1ec86cfe-f846-4cee-baea-0e736de5ce75.jpeg</a></p>
+<p>Photo 6:</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/54e4c1b4-ba3c-4c92-b064-db14d1b1b4e8.jpeg">https://lemmy.whynotdrs.org/pictrs/image/54e4c1b4-ba3c-4c92-b064-db14d1b1b4e8.jpeg</a></p>
+<p>-</p>
+<p>SEC Bulletin - Get the Facts about Holding Securities:</p>
+<p><a href="https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts">https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts</a></p>
+<p>-</p>
+<p>FINRA Bulletin - Know the Facts about Direct Registered Shares:</p>
+<p><a href="https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares">https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares</a></p>
+<p>-</p>
+<p>GME 2023 Stockholder List Data:</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/d5f98246-3bf2-40c8-b96e-2c15c20aedb9.png">https://lemmy.whynotdrs.org/pictrs/image/d5f98246-3bf2-40c8-b96e-2c15c20aedb9.png</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+    </item>
+    <item>
+      <title>Taking Stock Episode 3 - Talking With Peruvian Bull</title>
+      <pubDate>Wed, 9 Aug 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_e494d72cef474add836b64c9eebcb840.mp3" type="audio/mpeg" length="47710885" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_e494d72cef474add836b64c9eebcb840.mp3</guid>
+      <itunes:duration>1:19:30</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This weeks Taking Stock was really incredible. I’d highly recommend checking out the conversation with our hugely knowledgeable guest Peruvian Bull, which ranged from the beginnings of the DRS online movement to the birds eye and macro view on these wild economic time. Peruvian Bull has strong skill in breaking down complex concepts and providing key context to help understand each example, and we’ll look forward to speaking with him again in the future. There’s a ton of information packed into this show, and I can’t do it justice here. Check it out!
+
+The DRS team shared major updates to the WhyDRS.org advocacy resources in the Shareholder Proposal Guide and the WhyDRS database.</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://lemmy.whynotdrs.org/post/77154">https://lemmy.whynotdrs.org/post/77154</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Resources:</p>
+<p>WhyDRS Shareholder Proposals Guide</p>
+<p><a href="https://www.whydrs.org/shareholder-proposals-guide">https://www.whydrs.org/shareholder-proposals-guide</a></p>
+<p>-</p>
+<p>WhyDRS Database</p>
+<p><a href="https://lemmy.whynotdrs.org/post/21495">https://lemmy.whynotdrs.org/post/21495</a></p>
+<p>-</p>
+<p>GiveAshare Spotlight on WhyDRS</p>
+<p><a href="https://www.whydrs.org/buy-direct-using-give-a-share">https://www.whydrs.org/buy-direct-using-give-a-share</a></p>
+<p>-</p>
+<p>Follow Peruvian Bull:</p>
+<p>Twitter/X:</p>
+<p><a href="https://twitter.com/peruvian_bull">https://twitter.com/peruvian_bull</a></p>
+<p>Substack:</p>
+<p><a href="https://peruvianbull.substack.com">https://peruvianbull.substack.com</a></p>
+<p>Youtube:</p>
+<p><a href="https://www.youtube.com/@peruvian_bull">https://www.youtube.com/@peruvian_bull</a></p>
+<p>Website:</p>
+<p><a href="https://thedollarendgame.com/">https://thedollarendgame.com</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+    </item>
+    <item>
+      <title>Taking Stock Episode 2 - Talking with Kevin Malone</title>
+      <pubDate>Wed, 2 Aug 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_dbaabf09986243e1ad8e65932c4e5ac4.mp3" type="audio/mpeg" length="43314568" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_dbaabf09986243e1ad8e65932c4e5ac4.mp3</guid>
+      <itunes:duration>1:30:13</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>This week on Taking Stock, we started off with a recap of some recent project and website updates from the DRS team including the WhyDRS Database and the GiveAshare spotlight page. After that, we welcomed Kevin Malone, CEO of Malone Wealth Ventures, a registered investment adviser. In the wake of Apex and Mainstar, Kevin has been investigating an alternative to potentially help clients direct register their shares without exposure to shaky custodians. Kevin talks about his experience so far with SEI, who may offer a service for registered investment advisers to maintain client assets in a segregated account and in their own names. The episode is closed with a group discussion about recent SEC and FINRA bulletins which introduce new and more explicit language about direct registration and about the distinction between plan designated holdings and book designated holdings. Which conclusions we can try to draw from them?</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://lemmy.whynotdrs.org/post/52097">https://lemmy.whynotdrs.org/post/52097</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>Resources:</p>
+<p>WhyDRS Database</p>
+<p><a href="https://lemmy.whynotdrs.org/post/21495">https://lemmy.whynotdrs.org/post/21495</a></p>
+<p>-</p>
+<p>GiveAshare Spotlight on WhyDRS</p>
+<p><a href="https://www.whydrs.org/buy-direct-using-give-a-share">https://www.whydrs.org/buy-direct-using-give-a-share</a></p>
+<p>-</p>
+<p>Malone Wealth Ventures</p>
+<p><a href="https://www.malonewealth.com/">https://www.malonewealth.com</a></p>
+<p>-</p>
+<p>SEI: Technology and Investment Solutions</p>
+<p><a href="https://www.seic.com/">https://www.seic.com</a></p>
+<p>-</p>
+<p>SEC’s Investor Bulletin: Holding Your Securities - From 7/12/2023</p>
+<p><a href="https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts">https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts</a></p>
+<p>-</p>
+<p>SEC’s Investor Bulletin: Holding Your Securities - Archived from 3/4/2003</p>
+<p><a href="https://web.archive.org/web/20230117041323/https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts">https://web.archive.org/web/20230117041323/https://www.sec.gov/about/reports-publications/investor-publications/holding-your-securities-get-the-facts</a></p>
+<p>-</p>
+<p>FINRA’s Know the Facts about Direct Registered Shares - From 7/12/2023</p>
+<p><a href="https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares">https://www.finra.org/investors/insights/know-the-facts-direct-registered-shares</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+    </item>
+    <item>
+      <title>Taking Stock Episode 1 - Viewing a stockholder list</title>
+      <pubDate>Wed, 26 Jul 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://static.wixstatic.com/mp3/06e09f_c2197c666b534274ae60e556f6a1321c.mp3" type="audio/mpeg" length="41310568" />
+      <guid isPermaLink="true">https://static.wixstatic.com/mp3/06e09f_c2197c666b534274ae60e556f6a1321c.mp3</guid>
+      <itunes:duration>57:21</itunes:duration>
+      <author>hi@whydrs.org (WhyDRS)</author>
+      <category>Education</category>
+      <description><![CDATA[<p>The first Taking Stock - covering the stockholder list and welcoming some great investors and DRS advocates.</p>
+<p>-</p>
+<p>Recorded as a Twitter Space on 26th July 2023.</p>
+<p>-</p>
+<p>Itinerary:</p>
+<p><a href="https://lemmy.whynotdrs.org/post/29061">https://lemmy.whynotdrs.org/post/29061</a></p>
+<p>-</p>
+<p>Join the Community:</p>
+<p>Join us on Discord - <a href="https://mee6.xyz/en/i/vYJSX1ghMl">https://mee6.xyz/en/i/vYJSX1ghMl</a></p>
+<p>Join us on Lemmy - <a href="https://lemmy.whynotdrs.org/"></a>https://lemmy.whynotdrs.org/</p>
+<p>Visit <a href="https://www.drsgme.org">https://www.drsgme.org</a> and <a href="https://www.whydrs.org">https://www.whydrs.org</a></p>
+<p>-</p>
+<p>GameStop 2023 Stockholder List Data / Findings:</p>
+<p><a href="https://lemmy.whynotdrs.org/pictrs/image/d808b5a4-886b-4ca1-ac23-cb4dd9ce6f36.png">https://lemmy.whynotdrs.org/pictrs/image/d808b5a4-886b-4ca1-ac23-cb4dd9ce6f36.png</a></p>
+<p>-</p>
+<p>Special Thanks to:</p>
+<p><a href="https://www.craiyon.com/">Craiyon.com for help with the logo design</a></p>
+<p><a href="https://www.youtube.com/c/WoochTAK">Wooch for the intro & outro music</a></p>]]></description>
+    </item>
+  </channel>
+</rss>
