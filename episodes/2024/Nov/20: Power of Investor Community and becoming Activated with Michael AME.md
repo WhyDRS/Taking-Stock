@@ -1,4 +1,4 @@
-# Taking Stock Episode 53:
+# Taking Stock Episode 53: Power of Investor Community and becoming Activated with Michael AME
 
 https://x.com/i/spaces/1lDxLlaXqaMxm
 

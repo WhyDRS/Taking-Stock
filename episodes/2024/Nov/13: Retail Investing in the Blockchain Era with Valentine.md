@@ -1,4 +1,4 @@
-# Taking Stock episode 52: 
+# Taking Stock Episode 52: Retail Investing in the Blockchain Era with Valentine
 
 https://x.com/i/spaces/1rmxPomlbWmJN and https://x.com/i/spaces/1LyGBgrVjYPJN (Technical difficulties, space needed to be relaunched ~10 minutes in)
 
