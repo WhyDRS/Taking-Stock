@@ -29,7 +29,7 @@ For volunteers interested in preserving and hosting Taking Stock episodes, here 
 
 ## Step 1: Download IPFS
 
-Visit [the official IPFS Github](https://github.com/ipfs/ipfs-desktop) and download the desktop client for your operating system. Once installed, open it and you should see something similar to the screenshot below.
+Visit [the official IPFS Github](https://github.com/ipfs/ipfs-desktop) and download the desktop client for your operating system. Once installed, open it and you should see the screen below.
 
 ![image](https://github.com/user-attachments/assets/d99e4452-d7f7-4402-b8ba-4c93c7d06201)
 
