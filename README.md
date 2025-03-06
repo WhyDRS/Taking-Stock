@@ -31,28 +31,28 @@ For volunteers interested in preserving and hosting Taking Stock episodes, here 
 
 Visit [the official IPFS Github](https://github.com/ipfs/ipfs-desktop) and download the desktop client for your operating system. Once installed, open it and you should see something similar to the screenshot below.
 
-![image.png](attachment:987adeac-dd0d-4f05-aa97-c4782a9d930e:image.png)
+![image](https://github.com/user-attachments/assets/d99e4452-d7f7-4402-b8ba-4c93c7d06201)
 
 ## Step 2: Search the most recent hash
 
 The most recent hash is available at the top of this page; copy the hash, then paste it into the search bar as shown below and press “Enter”.
 
-![image.png](attachment:9bad6180-c01c-4ccf-a212-d97de4051bd1:image.png)
+![image](https://github.com/user-attachments/assets/6a9b11d3-20c5-4397-89bc-64600f7d7df1)
 
 ## Step 3: Press the three dots and select “Set pinning”
 
 Each file will need to be pinned separately when using the desktop client.
 
-![image.png](attachment:bba31db7-4813-46f4-a8fa-bdfecd0dcb28:image.png)
+![image](https://github.com/user-attachments/assets/be6c3a9f-acd4-4009-8987-839a178579a4)
 
 ## Step 4: Pin to local node
 
 Check the box next to “Local node” and then press apply to pin an item.
 
-![image.png](attachment:266231ce-5760-4f2c-9f61-18bebcceebcf:image.png)
+![image](https://github.com/user-attachments/assets/9d7c8eb8-25e2-4bb9-8b87-fa965c9ce29d)
 
 ## Step 5: Repeat the process
 
 Once you are finished pinning the files, you should eventually see a pin icon next to the files that are pinned. Success!
 
-![image.png](attachment:ac62e7bf-2674-4727-90fc-d01f2aaa9cf2:image.png)
+![image](https://github.com/user-attachments/assets/f2e05d05-f262-4bc5-a6f7-cca75250cf32)
