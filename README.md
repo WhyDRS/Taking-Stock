@@ -3,7 +3,9 @@
   <img src="img/taking-stock-temp-logo-mv-full-res-to-DAO-docs.jpg" width="450pt" alt="Logo">
 </p>
 
-# Current Hash: QmPJfuc5rMb7g3S8TgRyz6WAUvHSP2tkCX5D8UhtUJQj92 
+<p align="center">
+Current Hash: <code>QmPJfuc5rMb7g3S8TgRyz6WAUvHSP2tkCX5D8UhtUJQj92</code>
+</p>
 
 # _Taking Stock_ Community Portal
 
