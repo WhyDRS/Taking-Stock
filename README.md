@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Current Hash: <code>QmPJfuc5rMb7g3S8TgRyz6WAUvHSP2tkCX5D8UhtUJQj92</code>
+Current Hash: <code>QmUvi5mDgv5yK4pSbRkKFLs4tscwhEUhwxody7v7jfW619</code>
 </p>
 
 # _Taking Stock_ Community Portal
